@@ -1,4 +1,6 @@
 import React from "react";
+import TestComponent from './TestComponent'; // Import the TestComponent
+
 
 // no need to modify anything in here. The second test is looking for the returned JSX from this component
 function ExampleComponent() {

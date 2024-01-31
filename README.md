@@ -47,7 +47,7 @@ icon at the top of the page to go to the GitHub repo for this lesson. Fork and
 clone this lesson onto your computer, then navigate into the lesson's directory
 and run:
 
-```console
+```console  
 $ npm install
 ```
 
